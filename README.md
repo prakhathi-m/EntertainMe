@@ -9,9 +9,9 @@
   * Verification/Testing Plan - https://github.com/prakhathi-m/EntertainMe/blob/master/Testing%20Document.xlsx
   * Deployment 
     
-    Developer Manual - https://github.com/prakhathi-m/EntertainMe/blob/master/Testing%20Document.xlsx
+  Developer Manual - https://github.com/prakhathi-m/EntertainMe/blob/master/Testing%20Document.xlsx
     
-    Presentation - https://github.com/prakhathi-m/EntertainMe/blob/master/Presentation.pptx
+  Presentation - https://github.com/prakhathi-m/EntertainMe/blob/master/Presentation.pptx
   
  ## App Demo
  https://photos.app.goo.gl/9ytGdnizQU2DeLydA
