@@ -10,6 +10,7 @@
   * Deployment 
     
     Developer Manual - https://github.com/prakhathi-m/EntertainMe/blob/master/Testing%20Document.xlsx
+    
     Presentation - https://github.com/prakhathi-m/EntertainMe/blob/master/Presentation.pptx
   
  ## App Demo
