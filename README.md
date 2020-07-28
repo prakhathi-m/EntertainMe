@@ -23,4 +23,4 @@
  https://photos.app.goo.gl/9ytGdnizQU2DeLydA
  
  ### Download App
- 
+ https://expo.io/@prakhathi/entertain-me
