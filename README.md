@@ -13,6 +13,12 @@
     
   Presentation - https://github.com/prakhathi-m/EntertainMe/blob/master/Presentation.pptx
   
+  ## Figma prototype
+  https://www.figma.com/proto/m8f2bfylZTTNOPxlZ9t7Cn/Entertainment-Wireframe?node-id=9%3A109&scaling=scale-down
+  
+ ## ER diagram
+ https://app.genmymodel.com/editor/edit/_uXEAcFOTEeqK2M3E1LfZ7Q#
+  
  ## App Demo
  https://photos.app.goo.gl/9ytGdnizQU2DeLydA
  
